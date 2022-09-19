@@ -1,6 +1,6 @@
-name: ""
+name: "terraform-gitops-ubi"
 type: gitops
-description: ""
+description: "That module will add a new Argo CD config to deploy the terraform-gitops-ubi application"
 tags:
   - tools
   - gitops
