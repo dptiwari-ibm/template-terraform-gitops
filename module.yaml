@@ -36,6 +36,3 @@ versions:
           id: namespace
           output: name
       - name: kubeseal_cert
-        moduleRef:
-          id: gitops
-          output: sealed_secrets_cert
