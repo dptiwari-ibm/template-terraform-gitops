@@ -8,7 +8,7 @@ categories:
       - cloudProvider: ""
         softwareProvider: ""
         type: gitops
-        id: github.com/dptiwari-ibm/terraform-gitops-ubi
+        id: github.com/dptiwari-ibm/template-terraform-gitops
         group: ""
         displayName: terraform-gitops-ubi
         name: terraform-gitops-ubi
